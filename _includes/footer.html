@@ -4,9 +4,9 @@
         {% if site.footer_menu %}
         <div class="columns is-multiline">
             {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
+            <div class="column has-text-centered ">
                 <div>
-                    <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
+                    <a href="{{ item.link | prepend: site.baseurl }}" class="link has-text-dark">{{ item.name }}</a>
                 </div>
             </div>
             {% endfor %}
