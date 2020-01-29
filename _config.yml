@@ -4,7 +4,7 @@ tagline: Smart Space Solutions
 email: your-email@domain.com
 description: >
   The demo site for Smart Space Solutions, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "/armand"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
