@@ -1,6 +1,8 @@
 ---
 title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
+hero_image: img/home-hero.jpg
+hero_height: is-large
 layout: page
 callouts: home_callouts
 show_sidebar: true
