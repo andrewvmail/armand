@@ -1,7 +1,7 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
-hero_image: img/home-hero.jpg
+title: Smart Space Solutions
+subtitle: Serving the Greater Vancouver Area & Lower Mainland
+hero_image: img/hero2.jpg
 hero_height: is-large
 layout: page
 callouts: home_callouts
