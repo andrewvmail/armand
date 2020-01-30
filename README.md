@@ -263,7 +263,7 @@ To add some footer links, create a yaml file in the `_data` directory using the 
 - name: About
   link: /about/
 - name: Privacy Policy
-  link: /privacy-policy/
+  link: /privacy/
 ```
 
 Then add the name of your yaml file (without the .yml extension) into the footer_menu setting in the `_config.yml`
